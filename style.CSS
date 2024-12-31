@@ -1,0 +1,21 @@
+h3{
+    color: rgb(0, 255, 166);
+    text-decoration: underline;
+    block-size: 3px;
+    background-color: brown;
+    }
+    #p1{
+        color: rgb(221, 24, 24);
+    }
+    #p2{
+        color: blue;
+    }
+    #p3{
+        color: rgb(236, 19, 186);
+    }
+    #p4{
+        color: rgb(218, 191, 20);
+    }
+    #p5{
+        color: rgb(29, 222, 61);
+    }
